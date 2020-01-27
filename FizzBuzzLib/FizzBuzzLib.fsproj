@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="Match.fs" />
+        <Compile Include="IfPrime.fs" />
+        <Compile Include="UseFactorRules.fs" />
+        <Compile Include="Piipeline_With_Record.fs" />
+        <Compile Include="Pipeline_WithTuple.fs" />
+        <Compile Include="Pipeline_WithRules.fs" />
+        <Compile Include="RailwayCombinatorModule.fs" />
+        <Compile Include="RailwayOriented_CarbonationIsSuccess.fs" />
+        <Compile Include="RailwayOriented_CarbonationAsFailure.fs" />
+        <Compile Include="RailwayOriented_UsingCustomChoice.fs" />
+        <Compile Include="RailwayOriented_WithRules.fs" />
+    </ItemGroup>
+
+</Project>
